@@ -83,7 +83,7 @@ body {
     height: 100%;
     z-index: 0;
     opacity: 0.9;
-    pointer-events: auto;
+    pointer-events: none;
 }
 
 /* Content Wrapper */
